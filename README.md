@@ -6,7 +6,7 @@ This project is a console-based implementation of the popular quiz show, "Who Wa
 ✨ Features
 The KBC Console Game includes the following core functionalities:
 
-Question Progression: The game progresses through 15 questions with escalating prize money, leading up to the top prize of ₹7 Crore.
+Question Progression: The game progresses through 16 questions with escalating prize money, leading up to the top prize of ₹7 Crore.
 
 Three Lifelines: Players are equipped with three distinct lifelines, usable once each:
 
